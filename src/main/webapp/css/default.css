@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body, div, td, spam, p, h1, h2, h3 {
+	font-family: Robotic, Tahoma, Arial, Helvetica, sans-serif
+}
+
+body {margin: 0px}
+
+.headerBarTitle { background-color: #003366; color: #FFFFFF;  padding: 10px}
+.headBarSubTitle { background-color: #ffff00; color: #000000;  padding: 10px}
+
+.optPerfil { cursor: pointer; border-radius: 5px; box-shadow: 3px 5px 4px #cccccc; background-color: #F2F2F2; padding: 5px; border: 1px solid #cccccc; text-align: center }
+.aPerfil { color: #000000 } 
+a.aPerfil:hover { color: red }	
+
+.thFundos { border-bottom: 1px solid #cccccc; border-top: 1px solid #CCCCCC; background-color: #F2F2F2 }
+.tdFundos { border-bottom: 1px solid #cccccc;}
+	
